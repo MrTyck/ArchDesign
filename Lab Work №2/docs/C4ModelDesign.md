@@ -1,8 +1,8 @@
 # Использование нотации C4 model
 ## Диаграмма системного контекста
-![ContextDiagram](https://s.icepanel.io/BOv5YUhxdc33g6/gNqM)
+[ContextDiagram](https://s.icepanel.io/BOv5YUhxdc33g6/gNqM)
 ## Диаграмма контейнеров
-![ContainerDiagram](https://s.icepanel.io/BOv5YUhxdc33g6/9P0P)
+[ContainerDiagram](https://s.icepanel.io/BOv5YUhxdc33g6/9P0P)
 *Условные обозначения*:
   * ModuleName — описание модуля;
   * находить релевантные открытые источники по определённой области;
@@ -12,5 +12,4 @@
 *Пользователь* должен иметь возможность:
   * просмотреть все найденные варианты.
 ## Диаграмма компонентов
-![Use case diagram](example.com)
-## Перечень сделанных предположений
+[ComponentDiagram](example.com)
