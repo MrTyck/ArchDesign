@@ -1,6 +1,6 @@
 # Использование нотации C4 model
 ## Диаграмма системного контекста
-[Диаграмма контекста](ContextDiagram.svg)
+![Диаграмма контекста](ContextDiagram.svg)
 Полную версию диаграммы можно посмотреть [здесь](https://s.icepanel.io/BOv5YUhxdc33g6/gNqM)
 ## Диаграмма контейнеров
 [ContainerDiagram](https://s.icepanel.io/BOv5YUhxdc33g6/9P0P)
