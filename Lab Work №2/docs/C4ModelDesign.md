@@ -17,5 +17,8 @@
 ![ContainerDiagram](ContainerDiagram.svg)
 
 Полную версию диаграммы можно посмотреть [здесь](https://s.icepanel.io/BOv5YUhxdc33g6/XAfI).
-## Диаграмма компонентов
+## Диаграммы компонентов
 [ComponentDiagram](example.com)
+Для контейнеров [Web Application](https://s.icepanel.io/BOv5YUhxdc33g6/Xcv0) и [Interval Generation Service](https://s.icepanel.io/BOv5YUhxdc33g6/jtox) были спроектированы компоненты, показанные на рисунках ниже.
+![WebApplication](WebApplicationDiagram.svg)
+![IntervalGenerationService](IntervalGenerationServiceDiagram.svg)
